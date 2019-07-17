@@ -4,3 +4,5 @@ This repo contains information pertaining to a four branch 6th order passive But
 This project was completed to meet the 2018-2019 Electrical Engineering 221-223 sequence course requirements taught by Dr. Donald Duncan at Portland State University Maseeh College of Engineering and Computer Science - Electrical Engineering Program. 
 
 View the project final report [here](/docs/finalreport.pdf) or by using the [google doc link](https://docs.google.com/document/d/1vV6OJEWidjzbffv2h6qe4K4YXA2pBC030I1_OhE0v94/edit?usp=sharing)
+
+Note: Github documentation is currently in progress. Refer to the doc/finalreport.pdf until github documentation is completed.
