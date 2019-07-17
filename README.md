@@ -20,13 +20,13 @@ The function of this project is to filter an audio signal and indicate, by light
 
 ## Project Parts
 
-### Audio/Input Signal
+### [Audio/Input Signal](/docs/input_signal.md)
 
 The audio signal (input signal) must fall within human range of hearing (typically 20-20000 Hz). The input into the system is a 3.5mm auxiliary audio connection. The audio is split into a stereo (binaural) and a mono (mixed) branch. The audio system design ensures that the music played over the speakers is kept separate as left and right audio channels and the filtered signal contains all the audio data. The audio data splits are made using NE5532 op amps used as buffers.
 
 Note: The signal input is connected via screw terminal which allows for signal input modularity. Therefore, the 3.5mm auxiliary cable input into the filter branches and following volume indicator circuit can be removed to insert different signal generator.
 
-### Filter Branches
+### [Filter Branches](/docs/filters.md)
 
 There are four 6th order passive Butterworth equal termination filters; one low-pass, two band-passes, and a high pass. These filters are routied and mounted on a custom designed PCB.
 
@@ -36,11 +36,11 @@ Note:
 - Band-Pass 2: 4.05 kHz to 9.95 kHz
 - High-Pass: > 10 kHz
 
-### Volume Indicators
+### [Volume Indicators](/docs/volume.md)
 
 At the end of each filter branch is a LED volume indicator circuit. These circuits contain a series of LEDs and an LM3915 (resistor and comparator network). This circuit is used to indicate when an audio signal satisfies the filter frequencies and passes through that branch; the LM3915 is used to indicate the intensity (i.e. volume) of the signal. These circuits will have the display of two rows of 5 green, 3 yellow, and 2 red LEDs, totalling 20 LEDs per branch. There are a total of four volume indicators, each receiving an amplified signal from a filter.  The intensity of each volume indicator is controllable via a potentiometer controlling the gainstage on its respective filter. These circuits were routed and mounted on a custom designed PCB.
 
-### Power System
+### [Power System](/docs/power.md)
 
 Power Requirements:
 - Op Amps, +18V and -18V
