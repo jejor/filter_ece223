@@ -12,9 +12,9 @@
 
 ## Band-Pass 1 Filter (250 Hz - 4 kHz)
 
-[Component Calculations](/simulations/MATLAB/Band_Pass1/BP1componentCalcs)
+[Component Calculations](/simulations/MATLAB/Band_Pass1/BP1componentCalcs.md)
 
-[Transfer Function Calculations](/simulations/MATLAB/Band_Pass1/BP1tf)
+[Transfer Function Calculations](/simulations/MATLAB/Band_Pass1/BP1tf.md)
 
 [MATLAB Code](/simulations/MATLAB/Band_Pass1/BP1ml)
 
@@ -22,9 +22,9 @@
 
 ## Band-Pass 2 Filter (4.05 kHz - 9.95 kHz)
 
-[Component Calculations](/simulations/MATLAB/Band_Pass2/BP2componentCalcs)
+[Component Calculations](/simulations/MATLAB/Band_Pass2/BP2componentCalcs.md)
 
-[Transfer Function Calculations](/simulations/MATLAB/Band_Pass2/BP2tf)
+[Transfer Function Calculations](/simulations/MATLAB/Band_Pass2/BP2tf.md)
 
 [MATLAB Code](/simulations/MATLAB/Band_Pass2/BP2ml)
 
@@ -32,9 +32,9 @@
 
 ## High-Pass Filter (> 10 kHz)
 
-[Component Calculations](/simulations/MATLAB/High_Pass/HPcomponentCalcs)
+[Component Calculations](/simulations/MATLAB/High_Pass/HPcomponentCalcs.md)
 
-[Transfer Function Calculations](/simulations/MATLAB/High_Pass/HPtf)
+[Transfer Function Calculations](/simulations/MATLAB/High_Pass/HPtf.md)
 
 [MATLAB Code](/simulations/MATLAB/High_Pass/HPml.m)
 
