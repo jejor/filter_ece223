@@ -2,9 +2,9 @@
 
 ## Low-Pass Filter (< 200 Hz)
 
-[Component Calculations](/simulations/MATLAB/Low_Pass/LPcomponentCalcs)
+[Component Calculations](/simulations/MATLAB/Low_Pass/LPcomponentCalcs.md)
 
-[Transfer Function Calculations](/simulations/MATLAB/Low_Pass/LPtf)
+[Transfer Function Calculations](/simulations/MATLAB/Low_Pass/LPtf.md)
 
 [MATLAB Code](/simulations/MATLAB/Low_Pass/LPml.m)
 
