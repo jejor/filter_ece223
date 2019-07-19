@@ -11,3 +11,7 @@ These circuits have the display of two rows of 5 green, 3 yellow, and 2 red LEDs
 ![volumeindicatorpcbfront](/img/volumeindicatorpcbfront.jpg)
 
 ![volumeindicatorpcbback](/img/volumeindicatorpcbback.jpg)
+
+## Power Pack
+
+This circuit is powered by [power pack 2](/docs/power.md) which supplies +18V to the four LM3915 and also supplies +3.3V to the 80 LEDs.
