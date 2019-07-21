@@ -49,3 +49,8 @@ Power Requirements:
 - Common Ground
 
 To satisfy the power requirements the project uses a total of seven 9V batteries. These seven batteries are split between three battery packs with a common ground. The first battery pack powers all the op amp rails, it is four 9V batteries in series with a voltage divider to define a common ground and supply the +18V and -18V. The second battery pack powers the volume indicator circuit main power and contains two 9V batteries in series to supply +18V. The third battery pack powers the LEDs in the volume indicator circuit by using a single 9V and an LM317 voltage regulator to supply 3.3V.
+
+
+### [Housing](/housing/README.md)
+
+This project is housed within a pressed wood frame. 
